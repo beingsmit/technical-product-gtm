@@ -1,0 +1,12 @@
+{
+  "name": "technical-product-gtm",
+  "version": "3.0.0",
+  "description": "11 go-to-market skills for AI and technical founders — positioning, pricing, partnerships, enterprise sales, PLG, AI GTM, and board communication. Built from 15 years operating at companies from Seed through IPO.",
+  "author": {
+    "name": "Smit Patel",
+    "url": "https://linkedin.com/in/smitkpatel"
+  },
+  "homepage": "https://github.com/beingsmit/technical-product-gtm",
+  "license": "MIT",
+  "tags": ["gtm", "sales", "enterprise", "partnerships", "pricing", "positioning", "plg", "ai", "b2b-saas", "board-communication"]
+}

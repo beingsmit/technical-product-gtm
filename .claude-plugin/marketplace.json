@@ -1,0 +1,23 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "technical-product-gtm",
+  "version": "3.0.0",
+  "description": "11 go-to-market skills for AI and technical founders — positioning, pricing, partnerships, enterprise sales, PLG, AI GTM, and board communication.",
+  "owner": {
+    "name": "Smit Patel",
+    "email": "1781956+beingsmit@users.noreply.github.com"
+  },
+  "plugins": [
+    {
+      "name": "technical-product-gtm",
+      "description": "11 go-to-market skills for AI and technical founders — positioning, pricing, partnerships, developer ecosystems, PLG, AI GTM, enterprise sales, onboarding, operating cadence, and board communication. Built from 15 years operating at companies from Seed through IPO.",
+      "source": ".",
+      "version": "3.0.0",
+      "author": {
+        "name": "Smit Patel"
+      },
+      "homepage": "https://github.com/beingsmit/technical-product-gtm",
+      "category": "business"
+    }
+  ]
+}
