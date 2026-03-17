@@ -4,7 +4,7 @@
 
 Built for founders from Seed through Series D, plus GTM leaders and operators scaling technical products. Not theory — frameworks from real GTM motions, with the failures included.
 
-Works with Claude Code, OpenAI Codex, Cursor, Windsurf, and any agent that supports the Agent Skills spec.
+Works with Claude Code, OpenAI Codex, Cursor, Windsurf, Antigravity and any agent that supports the Agent Skills spec.
 
 ---
 
