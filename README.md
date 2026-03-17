@@ -6,6 +6,8 @@ Built for founders from Seed through Series D, plus GTM leaders and operators sc
 
 Works with Claude Code, OpenAI Codex, Cursor, Windsurf, Antigravity and any agent that supports the Agent Skills spec.
 
+<img width="1584" height="396" alt="linkedin-cover" src="https://github.com/user-attachments/assets/3e4d63f5-4556-4c38-bb56-8bcf3fbae5c4" />
+
 ---
 
 ## Install
