@@ -12,19 +12,21 @@ Works with Claude Code, OpenAI Codex, Cursor, Windsurf, Antigravity and any agen
 
 ## Install
 
-### Claude Code (Plugin Marketplace)
+### Claude Code (Direct)
+```bash
+git clone https://github.com/beingsmit/technical-product-gtm.git
+cp -r technical-product-gtm/skills/* .claude/skills/
+```
 
+### Claude Code (Plugin Marketplace — coming soon)
 ```bash
 /plugin marketplace add beingsmit/technical-product-gtm
 /plugin install technical-product-gtm@technical-product-gtm
 ```
 
-### Claude Code (Direct)
+### GitHub Copilot
 
-```bash
-git clone https://github.com/beingsmit/technical-product-gtm.git
-# Copy skills/ folder into your project's .claude/skills/ directory
-```
+Skills are available in [github/awesome-copilot](https://github.com/github/awesome-copilot) — search for `gtm-` in the skills directory.
 
 ### Other Agents
 
