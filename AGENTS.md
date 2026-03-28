@@ -2,7 +2,7 @@
 
 ## What This Is
 
-11 go-to-market skills for B2B SaaS companies — built for founders of AI and technical products, GTM leaders, and operators from Seed through Series D. Each skill is a self-contained `SKILL.md` in the `skills/` directory.
+12 go-to-market skills for B2B SaaS companies — built for founders of AI and technical products, GTM leaders, and operators from Seed through Series D. Each skill is a self-contained `SKILL.md` in the `skills/` directory.
 
 ## How to Use These Skills
 
@@ -22,6 +22,7 @@ Skills are loaded based on what the user is working on. Here's when to load each
 **Enterprise execution** — user is in active deals or post-sale:
 - `enterprise-account-planning` → stuck deals, MEDDICC qualification, procurement navigation, mutual action plans
 - `enterprise-onboarding` → champion went quiet, adoption stalled, implementation planning
+- `customer-expansion` → NRR under target, expansion happens at renewal instead of before it, single-threaded accounts, champion left
 
 **Running the company** — user needs operating rhythm or board prep:
 - `operating-cadence` → meeting structures, metric dashboards, quarterly planning, decision rights
