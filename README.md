@@ -1,6 +1,6 @@
 # Technical Product GTM Skills
 
-**11 go-to-market skills for AI and technical founders** — positioning, pricing, partnerships, enterprise sales, PLG, AI GTM, and board communication.
+**12 go-to-market skills for AI and technical founders** — positioning, pricing, partnerships, enterprise sales, PLG, AI GTM, board communication, and customer expansion.
 
 Built for founders from Seed through Series D, plus GTM leaders and operators scaling technical products. Not theory — frameworks from real GTM motions, with the failures included.
 
@@ -59,6 +59,7 @@ Copy the `skills/` folder into your agent's skills directory. Each skill is self
 |-------|----------|
 | **enterprise-account-planning** | Your deal is 8 weeks in, POC went great, champion loves you — and procurement just went silent |
 | **enterprise-onboarding** | Your champion stopped responding at Week 4 and you're watching a $200K deal drift toward churn |
+| **customer-expansion** | Your NRR is 105% and you know it should be 140%, or your champion just left and you have no one else in the account |
 | **operating-cadence** | Your leadership team runs on vibes — no shared metrics, unclear decision rights, meetings that produce no outcomes |
 
 ### Board & Investor
